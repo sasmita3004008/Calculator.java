@@ -58,13 +58,7 @@ java App
 Add a screenshot of the calculator UI here.
 
 ```markdown
-![Calculator Screenshot](https://github.com/sasmita3004008/Calculator.java/blob/main/Screenshot%202026-06-18%20145949.jpg)
-```
-<h2>Calculator Screenshot</h2>
-
-<p align="center">
-    <img src="images/calculator.png" width="300">
-</p>
+![Calculator Screenshot](Screenshot%202026-06-18%20145949.jpg)
 
 ## 🔮 Future Enhancements
 
