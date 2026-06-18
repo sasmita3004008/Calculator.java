@@ -60,6 +60,11 @@ Add a screenshot of the calculator UI here.
 ```markdown
 ![Calculator Screenshot]("C:\Users\MSI KING\Downloads\Screenshot 2026-06-18 143222.png")
 ```
+<h2>Calculator Screenshot</h2>
+
+<p align="center">
+    <img src="images/calculator.png" width="300">
+</p>
 
 ## 🔮 Future Enhancements
 
