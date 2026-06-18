@@ -58,7 +58,7 @@ java App
 Add a screenshot of the calculator UI here.
 
 ```markdown
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot]("C:\Users\MSI KING\Downloads\Screenshot 2026-06-18 143222.png")
 ```
 
 ## 🔮 Future Enhancements
