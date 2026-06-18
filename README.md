@@ -57,7 +57,6 @@ java App
 
 Add a screenshot of the calculator UI here.
 
-```markdown
 ![Calculator Screenshot](Screenshot%202026-06-18%20145949.jpg)
 
 ## 🔮 Future Enhancements
